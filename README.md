@@ -10,5 +10,7 @@
 git clone https://github.com/Zhang-Yirui/RuoYi-Vue.git
 # 前端
 git clone https://github.com/Zhang-Yirui/RuoYi-Vue3.git
+# 小程序
+https://github.com/Zhang-Yirui/RuoYi-App.git
 
 ```
